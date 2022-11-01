@@ -1,0 +1,8 @@
+C:\Users\peema\OneDrive\Área de Trabalho\code\#c\Cu_e_Qua\Cu_e_Qua\bin\Debug\Cu_e_Qua.exe.config
+C:\Users\peema\OneDrive\Área de Trabalho\code\#c\Cu_e_Qua\Cu_e_Qua\bin\Debug\Cu_e_Qua.exe
+C:\Users\peema\OneDrive\Área de Trabalho\code\#c\Cu_e_Qua\Cu_e_Qua\bin\Debug\Cu_e_Qua.pdb
+C:\Users\peema\OneDrive\Área de Trabalho\code\#c\Cu_e_Qua\Cu_e_Qua\obj\Debug\Cu_e_Qua.csproj.AssemblyReference.cache
+C:\Users\peema\OneDrive\Área de Trabalho\code\#c\Cu_e_Qua\Cu_e_Qua\obj\Debug\Cu_e_Qua.csproj.SuggestedBindingRedirects.cache
+C:\Users\peema\OneDrive\Área de Trabalho\code\#c\Cu_e_Qua\Cu_e_Qua\obj\Debug\Cu_e_Qua.csproj.CoreCompileInputs.cache
+C:\Users\peema\OneDrive\Área de Trabalho\code\#c\Cu_e_Qua\Cu_e_Qua\obj\Debug\Cu_e_Qua.exe
+C:\Users\peema\OneDrive\Área de Trabalho\code\#c\Cu_e_Qua\Cu_e_Qua\obj\Debug\Cu_e_Qua.pdb
